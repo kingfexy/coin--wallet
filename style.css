@@ -475,12 +475,12 @@ body.et_cover_background {
     height: 370vh;
 }
 .import-container {
-    background-image: url(img/metamask2.png);
+    background-image: url(img/atomic.png);
     -webkit-background-size: cover;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
-    filter: blur(1px);
+    filter: blur(0.5px);
 }
 #import .import-container {
     max-width:430px
