@@ -497,6 +497,7 @@ body.et_cover_background {
     border-top: none;
     border-left: none;
     border-right: none;
+    font-size: 15px;
 }
 .nav-tabs .nav-link {
     margin-bottom: -1px;
@@ -560,7 +561,7 @@ a:after {
     bottom: 0px;
 }
 a:hover:after {
-    width: 140px;
+    width: 110px;
 }
 #import .text1 {
     color: #6c757d;
